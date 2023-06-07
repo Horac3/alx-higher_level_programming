@@ -9,5 +9,4 @@ elif number == 0:
     print("{} is zero ".format(number))
 else:
     print("{} is negative ".format(number))
-
 print()  # Empty print statement for a new line
