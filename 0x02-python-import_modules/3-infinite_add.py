@@ -1,16 +1,9 @@
 #!/usr/bin/python3
-import sys
 
-# Get the command-line arguments
-arguments = sys.argv[1:]
+if __name__ == "__main__":
+    import sys
 
-# Initialize the variable to store the sum
-total_sum = 0
-
-# Iterate over the arguments
-for arg in arguments:
-    # Convert the argument to an integer and add it to the total sum
-    total_sum += int(arg)
-
-# Print the result of the addition
-print(total_sum)
+    total = 0
+    for i in range(len(sys.argv) - 1):
+        total += int(sys.argv[i + 1])
+    print("{}".format(total))
