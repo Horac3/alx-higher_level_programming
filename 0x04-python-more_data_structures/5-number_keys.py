@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def number_keys(a_dictionary):
     # Get the keys of the dictionary
     keys = a_dictionary.keys()

@@ -1,0 +1,1 @@
+Knowing which data structure to use is why this repo exists.

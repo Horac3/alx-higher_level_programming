@@ -1,5 +1,5 @@
+#!/usr/bin/python3
 def best_score(a_dictionary):
-    # Initialize variables to keep track of the maximum score and corresponding key
     max_score = float('-inf')
     max_key = None
 
