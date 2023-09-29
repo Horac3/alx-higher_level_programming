@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
 """
-This script sends a POST request to a specified URL with an encoded email address as data and prints the response.
+This script sends a POST request to a specified URL with an 
+encoded email address as data and prints the response.
 
 Example Usage:
     python script.py http://example.com/api endpoint@example.com

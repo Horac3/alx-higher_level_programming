@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 
 """
-This script makes a GET request to the URL "https://intranet.hbtn.io/status" using the requests library. It then prints the response body, including the type of the response and its content.
+This script makes a GET request to the URL "https://intranet.hbtn.io/status"
+using the requests library. It then prints the response body,
+including the type of the response and its content.
 
 Example Usage:
 

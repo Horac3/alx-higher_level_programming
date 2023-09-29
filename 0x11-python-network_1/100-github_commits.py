@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
 """
-Retrieve and print the SHA and author name of the latest 10 commits from a GitHub repository.
+Retrieve and print the SHA and author name of the
+latest 10 commits from a GitHub repository.
 
 Example Usage:
     python3 script.py <repository> <owner>
@@ -11,7 +12,8 @@ Inputs:
     owner (str): The username of the repository owner.
 
 Outputs:
-    None. The code snippet prints the SHA and author name of the latest 10 commits from the specified GitHub repository.
+    None. The code snippet prints the SHA and author name of
+    the latest 10 commits from the specified GitHub repository.
 
 Code Snippet:
 """
