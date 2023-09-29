@@ -1,8 +1,10 @@
 #!/usr/bin/python3
 
 """
-This script takes a URL as a command line argument and sends a GET request to the specified URL. It then retrieves the value of the "X-Request-Id" header from the response and prints it.
-
+This script takes a URL as a command line argument and
+sends a GET request to the specified URL.
+It then retrieves the value of the "X-Request-Id"
+header from the response and prints it.
 Example Usage:
     python script.py https://example.com
 

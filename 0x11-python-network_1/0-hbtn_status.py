@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
 """
-This code snippet retrieves the content of a webpage using the urllib.request module and prints information about the response.
+This code snippet retrieves the content of a webpage using
+the urllib.request module and prints information about the response.
 
 Example Usage:
     import urllib.request
